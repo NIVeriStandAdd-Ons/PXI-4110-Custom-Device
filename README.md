@@ -1,6 +1,6 @@
-## PXI 4110 Custom Device ##
+## PXI-4110 Custom Device ##
 
-**PXI 4110 Custom Device** integrates the PXI-4110 Triple Output Programmable DC power supply into NI VeriStand.
+**PXI-4110 Custom Device** integrates the PXI-4110 Triple Output Programmable DC power supply into NI VeriStand.
 
 ### LabVIEW Version ###
 
