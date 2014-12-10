@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomDevice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Custom Device.xsd">
+  <AddMenu>
+    <eng>NI PXI-4110 Programmable Power Supply</eng>
+    <loc>NI PXI-4110 Programmable Power Supply</loc>
+  </AddMenu>
+  <Version>2.0</Version>
+  <Type>Asynchronous</Type>
+  <MaxOccurrence>2474</MaxOccurrence>
+  <MainPageGUID>29AF4F2E-106D-CFD8-9842-B199EAB6BA0C</MainPageGUID>
+  <InitializationVI>
+    <Type>Action</Type>
+    <Item2Launch>
+      <Type>To App Data Dir</Type>
+		<Path>Custom Devices\NI PXI-4110 Programmable Power Supply\NI PXI-4110 Programmable Power Supply Configuration.llb\NI PXI-4110 Programmable Power Supply Initialization VI.vi</Path>
+    </Item2Launch>
+  </InitializationVI>
+  <CustomDeviceVI>
+    <Source>
+      <Type>To App Data Dir</Type>
+		<Path>Custom Devices\NI PXI-4110 Programmable Power Supply\NI PXI-4110 Programmable Power Supply Engine.llb\NI PXI-4110 Programmable Power Supply RT Driver VI.vi</Path>
+    </Source>
+    <RealTimeSystemDestination>c:\ni-rt\VeriStand\Custom Devices\NI PXI-4110 Programmable Power Supply\NI PXI-4110 Programmable Power Supply Engine.llb\NI PXI-4110 Programmable Power Supply RT Driver VI.vi</RealTimeSystemDestination>
+  </CustomDeviceVI>
+  <Dependencies />
+  <Pages>
+    <Page>
+      <Name>
+        <eng>NI PXI-4110 Programmable Power Supply</eng>
+        <loc>NI PXI-4110 Programmable Power Supply</loc>
+      </Name>
+      <GUID>29AF4F2E-106D-CFD8-9842-B199EAB6BA0C</GUID>
+      <Glyph>
+			<Type>To App Data Dir</Type>
+			<Path>System Explorer\Glyphs\default fpga category.png</Path>
+		</Glyph>
+      <Item2Launch>
+        <Type>To App Data Dir</Type>
+		<Path>Custom Devices\NI PXI-4110 Programmable Power Supply\NI PXI-4110 Programmable Power Supply Configuration.llb\NI PXI-4110 Programmable Power Supply Main Page.vi</Path>
+      </Item2Launch>
+    </Page>
+    <Page>
+      <Name>
+        <eng>NI PXI-4110 Channel Settings</eng>
+        <loc>NI PXI-4110 Channel Settings</loc>
+      </Name>
+      <GUID>a75eced0-4074-47c0-908c-c3062bedfbe5</GUID>
+      <Glyph>
+			<Type>To App Data Dir</Type>
+			<Path>System Explorer\Glyphs\ao.png</Path>
+		</Glyph>
+      <Item2Launch>
+        <Type>To App Data Dir</Type>
+		<Path>Custom Devices\NI PXI-4110 Programmable Power Supply\NI PXI-4110 Programmable Power Supply Configuration.llb\NI PXI-4110 Programmable Power Supply Ch Page.vi</Path>
+      </Item2Launch>
+    </Page>
+  </Pages>
+  <CustomXML>
+    <Dummy></Dummy>
+  </CustomXML>
+</CustomDevice>
