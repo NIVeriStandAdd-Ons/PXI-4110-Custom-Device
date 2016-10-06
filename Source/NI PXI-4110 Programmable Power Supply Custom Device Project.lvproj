@@ -103,14 +103,14 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Configuration/data</Property>
 				<Property Name="Destination[2].destName" Type="Str">NI PXI-4110 Programmable Power Supply Folder</Property>
-				<Property Name="Destination[2].path" Type="Path">/C/Users/Public/Documents/National Instruments/VeriStand/Custom Devices/NI PXI-4110 Programmable Power Supply/NI PXI-4110 Programmable Power Supply Configuration.llb</Property>
+				<Property Name="Destination[2].path" Type="Path">/C/Users/Public/Documents/National Instruments/NI VeriStand 2015/Custom Devices/NI PXI-4110 Programmable Power Supply/NI PXI-4110 Programmable Power Supply Configuration.llb</Property>
 				<Property Name="Destination[2].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[2].type" Type="Str">LLB</Property>
 				<Property Name="Destination[3].destName" Type="Str">Main Custom Device Folder</Property>
 				<Property Name="Destination[3].path" Type="Path">/C/Users/Public/Documents/National Instruments/VeriStand/Custom Devices</Property>
 				<Property Name="Destination[3].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">4</Property>
-				<Property Name="Source[0].itemID" Type="Str">{CF563878-B2FD-4EEC-8C1D-43B8271BCC81}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{A1CD4EBA-9665-49A9-8C02-4C63461890D3}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">3</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Custom Device NI PXI-4110 Programmable Power Supply.xml</Property>
@@ -176,13 +176,13 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Engine/data</Property>
 				<Property Name="Destination[2].destName" Type="Str">NI PXI-4110 Programmable Power Supply Folder</Property>
-				<Property Name="Destination[2].path" Type="Path">/C/Users/Public/Documents/National Instruments/VeriStand/Custom Devices/NI PXI-4110 Programmable Power Supply/NI PXI-4110 Programmable Power Supply Engine.llb</Property>
+				<Property Name="Destination[2].path" Type="Path">/C/Users/Public/Documents/National Instruments/NI VeriStand 2015/Custom Devices/NI PXI-4110 Programmable Power Supply/NI PXI-4110 Programmable Power Supply Engine.llb</Property>
 				<Property Name="Destination[2].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[2].type" Type="Str">LLB</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="Source[0].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[0].destinationIndex" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{CF563878-B2FD-4EEC-8C1D-43B8271BCC81}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{A1CD4EBA-9665-49A9-8C02-4C63461890D3}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">2</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/NI PXI-4110 Programmable Power Supply Custom Device.lvlib/RT/NI PXI-4110 Programmable Power Supply RT Driver VI.vi</Property>
