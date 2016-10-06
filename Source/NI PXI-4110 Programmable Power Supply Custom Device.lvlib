@@ -28,4 +28,5 @@
 		<Item Name="4110_Config.vi" Type="VI" URL="../4110_Config.vi"/>
 		<Item Name="Print Error.vi" Type="VI" URL="../Print Error.vi"/>
 	</Item>
+	<Item Name="get limits.vi" Type="VI" URL="../get limits.vi"/>
 </Library>
