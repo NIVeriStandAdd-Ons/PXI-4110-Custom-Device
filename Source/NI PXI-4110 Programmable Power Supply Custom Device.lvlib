@@ -22,6 +22,7 @@
 		</Item>
 		<Item Name="NI PXI-4110 Programmable Power Supply Initialization VI.vi" Type="VI" URL="../NI PXI-4110 Programmable Power Supply Initialization VI.vi"/>
 		<Item Name="4110_Global.vi" Type="VI" URL="../4110_Global.vi"/>
+		<Item Name="Double to String.vi" Type="VI" URL="../Double to String.vi"/>
 	</Item>
 	<Item Name="RT" Type="Folder">
 		<Item Name="NI PXI-4110 Programmable Power Supply RT Driver VI.vi" Type="VI" URL="../NI PXI-4110 Programmable Power Supply RT Driver VI.vi"/>
@@ -29,4 +30,5 @@
 		<Item Name="Print Error.vi" Type="VI" URL="../Print Error.vi"/>
 	</Item>
 	<Item Name="get limits.vi" Type="VI" URL="../get limits.vi"/>
+	<Item Name="Set Range Controls.vi" Type="VI" URL="../Set Range Controls.vi"/>
 </Library>
